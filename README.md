@@ -1,5 +1,5 @@
 # Correlation-between-Fine-Dust-and-Disease
-Analysis correlation between fine dust and disease and Visualization
+Analysis correlation between fine dust and disease, Visualization
 
 
 ### Project period: 2019/09~2020/01
